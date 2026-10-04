@@ -120,15 +120,6 @@ The complete project configuration is available as:
 
 This XML file can be imported into another ServiceNow instance as an Update Set to transfer the project configuration.
 
-Repository Structure
-
-Auto-Ticket-Classification-using-Flow-Designer/
-│
-├── README.md
-│
-├── ServiceNow/
-│   └── Project_Update_Set.xml
-
 Project Purpose
 
 The project showcases how ServiceNow Flow Designer can be utilized to build a no-code automation workflow for classifying IT support tickets and notifying the respective caller.
